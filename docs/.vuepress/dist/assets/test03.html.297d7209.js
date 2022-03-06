@@ -1,0 +1,1 @@
+const t={key:"v-09dab66f",path:"/guide/vue/test03.html",title:"",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:null,contributors:[]},filePathRelative:"guide/vue/test03.md"};export{t as data};

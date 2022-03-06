@@ -1,0 +1,17 @@
+{
+  "name": "docs",
+  "version": "1.0.0",
+  "description": "一个前端学习的文档",
+  "main": "index.js",
+  "repository": "git@github.com:xdl452995030/docs.git",
+  "author": "xdl452995030 <452995030@qq.com>",
+  "license": "MIT",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs",
+    "deploy": "bash deploy.sh"
+  },
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.36"
+  }
+}
